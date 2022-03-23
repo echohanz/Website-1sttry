@@ -1,0 +1,106 @@
+
+.navi ul{
+	list-style-type: none;
+	margin: 10px;
+	padding: 10px;
+	background-color: transparent;
+	overflow: hidden;
+}
+
+.navi li{
+	float: left;
+}
+.navi li a{
+	display: block;
+	color: #444;
+	text-decoration: none;
+	padding: 8px 16px;
+}
+.navi li:hover{
+	background-color: #55aa7f;
+	color: white;
+}
+
+body{
+	background-image: url(../img/6.jpg);
+	background-size: 100%;
+}
+.photo{
+	float: left;
+	width: 20%;
+	max-width: 100%; 
+	height: auto; 
+	width: auto; 
+}
+	
+.intro{
+	float: right;
+	width: 80%;
+	color: #220242;
+}
+
+.exp{
+	float: right;
+	width: 80%;
+	color: #220242;
+}
+
+.main{
+	font-style: italic;
+	color: #6441bc;
+	text-align:center;
+}
+
+.foot{
+	font-style: italic;
+	color: #6300aa;
+	text-align:center;
+}
+
+.navi{
+	font-family: cursive;
+}
+
+.cd{
+	font-family: monospace;
+	font-size: larger;
+}
+
+.ex{
+	font-family: monospace;
+	font-size: larger;
+}
+
+.resintro{
+	font-family: monospace;
+	color: #220242;
+	font-size: larger;
+}
+
+.education{
+	font-family: monospace;
+	color: #220242;
+	font-size: larger;
+}
+	
+.Projects{
+	font-family: monospace;
+	color: #220242;
+	font-size: larger;
+}
+
+.OtherEx{
+	font-family: monospace;
+	color: #220242;
+	font-size: larger;
+}
+
+.skills{
+	font-family: monospace;
+	color: #220242;
+	font-size: larger;
+}
+
+.audio{
+	margin: 0;
+}
